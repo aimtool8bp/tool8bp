@@ -1,8 +1,8 @@
 # Level Up Your 8 Ball Pool Skills with 8bpmod
 
 If you’re passionate about 8 Ball Pool and want to sharpen your skills, 8bpmod is the ultimate tool for you. Designed for players eager to elevate their gameplay, 8bpmod enhances your aiming precision and even predicts complex indirect shots. Often compared to the popular Snake 8 Ball Pool aiming assistant, 8bpmod stands out with its accuracy and advanced features.
-Link : [Download Mod](https://get8bptool.github.io/8bpaimtool/)
-What is 8bpmod?
+## Link : [Download Mod](https://get8bptool.github.io/8bpaimtool/)
+## What is 8bpmod?
 8bpmod is more than just another 8 Ball Pool mod—it’s a game-changer. This tool offers a virtual guideline that helps you aim with pinpoint accuracy, making both simple and tricky shots easier to execute. Whether you’re lining up a straight shot or planning a challenging bank shot, 8bpmod gives you the edge you need.
 
 Its standout feature is the ability to predict indirect shots, calculating angles and ball trajectories that are hard to judge manually. This makes 8bpmod a must-have for casual players and competitive pros alike.
