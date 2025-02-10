@@ -7,7 +7,7 @@ What is 8bpmod?
 
 Its standout feature is the ability to predict indirect shots, calculating angles and ball trajectories that are hard to judge manually. This makes 8bpmod a must-have for casual players and competitive pros alike.
 
-#How Does 8bpmod Work?
+## How Does 8bpmod Work?
 8bpmod overlays extended aiming guidelines on your screen, showing you the predicted path of the ball. This is especially useful for long-range shots or when the ball bounces off multiple cushions. Key features include:
 
 Accurate Aiming Assistance: Perfectly align your shots every time.
